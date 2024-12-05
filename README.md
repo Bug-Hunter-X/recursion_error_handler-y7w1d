@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: the RecursionError.  The `bug.py` file contains a recursive function that does not correctly handle negative input, leading to a stack overflow.  The `bugSolution.py` file provides a corrected version of the function that handles the base case appropriately, preventing the error.
